@@ -183,7 +183,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="Controllers\TestController.cs" />
     <Compile Include="Migrations\202009210258069_init.cs" />
     <Compile Include="Migrations\202009210258069_init.designer.cs">
       <DependentUpon>202009210258069_init.cs</DependentUpon>
