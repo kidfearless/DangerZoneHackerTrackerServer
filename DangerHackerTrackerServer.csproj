@@ -220,7 +220,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <Content Include="ConnectionStrings.config" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202009210258069_init.resx">
